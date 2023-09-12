@@ -395,11 +395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeyhunph\\Desktop\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "projectName": "HR.LeaveManagement.Application",
-      "projectPath": "C:\\Users\\jeyhunph\\Desktop\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectPath": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "packagesPath": "C:\\Users\\jeyhunph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeyhunph\\Desktop\\ClassLibrary1\\HR.LeaveManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeyhunph\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -416,8 +416,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jeyhunph\\Desktop\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\jeyhunph\\Desktop\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+            "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
             }
           }
         }
