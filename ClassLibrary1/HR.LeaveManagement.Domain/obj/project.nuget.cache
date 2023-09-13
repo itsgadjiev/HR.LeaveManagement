@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "69BIrzkNlBRG9ZgxKJGwTbSpdU/o9Fz3ddP3xnce1VQP4FBvloEsyqOXDqfeSEEs+0e5RsISZheEaRdENcY7/Q==",
+  "dgSpecHash": "XSipWjdFj/b56xF0bmV7c6VhCYBt94DH70RJfx1WmcWlaACWQ66c0567ke1n3n7ggAYs7Dt0Ekhl6M1fkUAwYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\HR.LeaveManagement\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

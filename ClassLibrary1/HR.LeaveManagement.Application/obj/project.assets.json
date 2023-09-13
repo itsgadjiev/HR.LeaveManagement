@@ -390,19 +390,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jeyhunph\\.nuget\\packages\\": {}
+    "C:\\Users\\ceyhu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\HR.LeaveManagement\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
       "projectName": "HR.LeaveManagement.Application",
-      "projectPath": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
-      "packagesPath": "C:\\Users\\jeyhunph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Application\\obj\\",
+      "projectPath": "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\HR.LeaveManagement\\ClassLibrary1\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+      "packagesPath": "C:\\Users\\ceyhu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\HR.LeaveManagement\\ClassLibrary1\\HR.LeaveManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jeyhunph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ceyhu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -416,8 +416,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\jeyhunph\\Desktop\\New folder\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+            "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\HR.LeaveManagement\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\HR.LeaveManagement\\ClassLibrary1\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
             }
           }
         }
@@ -461,7 +461,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
