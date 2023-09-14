@@ -34,3 +34,15 @@ C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1
 C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\refint\HR.LeaveManagement.Domain.dll
 C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.pdb
 C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\refint\HR.LeaveManagement.Domain.dll
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Jake\Desktop\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Domain\obj\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll
