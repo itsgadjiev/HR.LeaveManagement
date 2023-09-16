@@ -11,4 +11,6 @@ public class LeaveAllocation : BaseEntity, IAuditable
     public int Period { get; set; }
     public DateTime CreatedAt { get; set; }
     public DateTime UpdatedAt { get; set; }
+    public string EmployeeId { get; set; }
+    
 }

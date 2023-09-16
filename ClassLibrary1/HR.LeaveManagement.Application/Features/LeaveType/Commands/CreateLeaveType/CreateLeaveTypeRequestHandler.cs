@@ -1,11 +1,6 @@
 ﻿using AutoMapper;
 using HR.LeaveManagement.Application.Contracts.Percistance;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveType;
 
@@ -14,7 +9,7 @@ public class CreateLeaveTypeRequestHandler : IRequestHandler<CreateLeaveTypeComm
     private readonly IMapper _mapper;
     private readonly ILeaveTypeRepository _leaveTypeRepository;
 
-    public CreateLeaveTypeRequestHandler(IMapper mapper,ILeaveTypeRepository leaveTypeRepository)
+    public CreateLeaveTypeRequestHandler(IMapper mapper, ILeaveTypeRepository leaveTypeRepository)
     {
         _mapper = mapper;
         _leaveTypeRepository = leaveTypeRepository;
@@ -27,6 +22,6 @@ public class CreateLeaveTypeRequestHandler : IRequestHandler<CreateLeaveTypeComm
 
         await _leaveTypeRepository.AddAsync(leaveType);
 
-        return leaveType.Id;    
+        return leaveType.Id;
     }
 }
