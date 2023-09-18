@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oYz+slwuu5ETHNb2Ys2fm8CT8Zt/DmwQ7S+rsk+l1pSYgGLYxKb0ME+7MPbtbR8hqCc1s1ZeqZ5ERiRKclOGNQ==",
+  "dgSpecHash": "eoX/hkIH7RtnSY9IDARYjn1BZU1f0K9VrKJ8V0v1JXxcz/Z19kc5GfIjwzWF+MVMhD2LpaiMQHBfM9xZXZzXZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\HR.LeaveManagement\\ClassLibrary1\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\ceyhu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ceyhu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
     "C:\\Users\\ceyhu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ceyhu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\ceyhu\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\ceyhu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\ceyhu\\.nuget\\packages\\mimekit\\3.2.0\\mimekit.3.2.0.nupkg.sha512",
