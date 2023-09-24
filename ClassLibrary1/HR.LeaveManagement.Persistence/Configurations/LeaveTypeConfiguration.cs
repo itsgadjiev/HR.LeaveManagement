@@ -10,6 +10,7 @@ public class LeaveTypeConfiguration : IEntityTypeConfiguration<Domain.LeaveType>
     {
         builder.HasData(new LeaveType
         {
+            Id=-1,
             CreatedAt = DateTime.UtcNow,
             UpdatedAt= DateTime.UtcNow,
             DefaultDays = 2,
