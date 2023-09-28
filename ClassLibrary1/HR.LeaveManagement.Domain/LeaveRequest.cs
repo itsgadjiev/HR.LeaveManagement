@@ -1,14 +1,9 @@
 ﻿using HR.LeaveManagement.Domain.Common.abstracts;
 using HR.LeaveManagement.Domain.Common.concrets;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Domain;
 
-public class LeaveRequest:BaseEntity,IAuditable
+public class LeaveRequest : BaseEntity, IAuditable
 {
     public DateTime StartDate { get; set; }
     public DateTime EndDate { get; set; }
