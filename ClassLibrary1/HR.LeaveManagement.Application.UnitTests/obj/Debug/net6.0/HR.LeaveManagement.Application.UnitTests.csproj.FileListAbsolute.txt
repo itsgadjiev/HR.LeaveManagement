@@ -1,0 +1,6 @@
+C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Application.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Application.UnitTests\obj\Debug\net6.0\HR.LeaveManagement.Application.UnitTests.csproj.AssemblyReference.cache
+C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Application.UnitTests\obj\Debug\net6.0\HR.LeaveManagement.Application.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Application.UnitTests\obj\Debug\net6.0\HR.LeaveManagement.Application.UnitTests.AssemblyInfoInputs.cache
+C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Application.UnitTests\obj\Debug\net6.0\HR.LeaveManagement.Application.UnitTests.AssemblyInfo.cs
+C:\Users\ceyhu\OneDrive\Рабочий стол\HR.LeaveManagement\ClassLibrary1\HR.LeaveManagement.Application.UnitTests\obj\Debug\net6.0\HR.LeaveManagement.Application.UnitTests.csproj.CoreCompileInputs.cache
